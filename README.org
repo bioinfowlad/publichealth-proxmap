@@ -15,6 +15,6 @@ Will try this first on a static, Rmarkdown version but then move to make it a Sh
 - [[https://michaeldorman.github.io/R-Spatial-Workshop-at-CBS-2021/main.html][R for Spatial Tutorial]]
 - [[https://datacarpentry.org/lessons/#geospatial-curriculum][Data Carpentry Geospatial lessons]] <- Probably should start here
 
-
-
-
+** See also
+- [[https://crh.arizona.edu/resources/data-sources/toolkit/gis][UofAZ Center for Rural Health]]
+- [[https://snre.arizona.edu/academics/prospective-students/graduate-certificates][GIS Curriculum AZ.edu]]
